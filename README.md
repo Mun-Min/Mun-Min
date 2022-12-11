@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hello World! I am an aspiring FinTech Data Analyst /Blockchain Developer currently studying at Arizona State University. <br><br>Qualifications encompass collaborating across teams to define needs, evaluate risks and issues, and implementing solutions. <br><br>Enjoys leveraging background and skill set to support detailed and efficient analysis. <br><br>
+* Hello World! I am an aspiring FinTech Data Analyst /Blockchain Developer currently studying at Arizona State University. 
+* Qualifications encompass collaborating across teams to define needs, evaluate risks and issues, and implementing solutions. 
+* Enjoys leveraging background and skill set to support detailed and efficient analysis.
 
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/munqiz-minhas-99623710a/?original_referer=) 
