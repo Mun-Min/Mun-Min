@@ -29,6 +29,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mun-Min&icon=5&color=3)](https://visitcount.itsvg.in)
+![][(https://visitcount.itsvg.in/api?id=Mun-Min&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
