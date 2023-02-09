@@ -48,12 +48,16 @@
 
 <br>
 
-## 🏆 Credly Badges:
+## 🏆 Credly/Certification Badges:
+<p> 
+
 ![](https://images.credly.com/size/140x140/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)
 ![](https://images.credly.com/size/140x140/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)
 ![](./Images/badge_3.png)
-![](./Images/badge_4.png)
+![](./Images/badge_4.png) &nbsp;&nbsp;
+![](./Images/FinTech_Bootcamp_Badge.png)
 
+</p> 
 <br>
 
 ## ✍️ Random Dev Quote
