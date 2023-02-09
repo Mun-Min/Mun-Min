@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 * Hello World! I am an aspiring FinTech Data Analyst / Software Developer and I am currently seeking various educational programs to advance my skillset. 
 
 * Qualifications encompass collaborating across teams to define needs, evaluate risks and issues, and implementing solutions. 
@@ -7,13 +7,13 @@
 
 <br>
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munqiz-minhas) 
 [![Mail](https://img.shields.io/badge/Gmail-minhasmunqiz@gmail.com-lightred.svg?style=flat&color=black)](mailto:minhasmunqiz@gmail.com)
 
 <br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![Markdown](
     https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
     ![Java](https://img.shields.io/badge/JAVA-a52a2a.svg?style=flat&logo=Java&logoColor=a52a2a)
@@ -26,7 +26,7 @@
     ![Google Cloud](https://img.shields.io/badge/Google_Colab-ffa500.svg?style=flat&logo=Google-Colab&logoColor=white) 
     ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
     ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-    [![Ganache](https://img.shields.io/badge/Ganache-brown.svg?logo=ganache&style=flat-square)](https://www.trufflesuite.com/ganache)
+    [![Ganache](https://img.shields.io/badge/GANACHE-brown.svg?logo=ganache&style=flat-square)](https://www.trufflesuite.com/ganache)
     ![Canva](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
     ![Pandas](https://img.shields.io/badge/PANDAS-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
     ![Streamlit](https://img.shields.io/badge/Streamlit-ff6961.svg?style=flat&logo=Streamlit&logoColor=white) 
@@ -49,8 +49,6 @@
 <br>
 
 ## 🏆 Credly/Certification Badges:
-<p> 
-
 ![](https://images.credly.com/size/140x140/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)
 ![](https://images.credly.com/size/140x140/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)
 ![](./Images/badge_3.png)
