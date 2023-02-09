@@ -1,7 +1,9 @@
 # 💫 About Me:
-* Hello World! I am an aspiring FinTech Data Analyst /Blockchain Developer currently studying at Arizona State University. 
+* Hello World! I am an aspiring FinTech Data Analyst / Software Developer and I am currently seeking various educational programs to advance my skillset. 
+
 * Qualifications encompass collaborating across teams to define needs, evaluate risks and issues, and implementing solutions. 
-* Enjoys leveraging background and skill set to support detailed and efficient analysis.
+
+* Enjoys leveraging background and skill set to conduct thorough, effective analysis and solve complex problems.
 
 <br>
 
