@@ -9,7 +9,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munqiz-minhas) 
-[![Mail](https://img.shields.io/badge/Gmail-minhasmunqiz@gmail.com-lightred.svg?style=for-the-badge&color=black)](mailto:minhasmunqiz@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-minhasmunqiz@gmail.com-lightred.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:minhasmunqiz@gmail.com)
 
 <br>
 
