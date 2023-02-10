@@ -27,7 +27,7 @@
     ![Google Cloud](https://img.shields.io/badge/Google_Colab-ffa500.svg?style=flat&logo=Google-Colab&logoColor=white) 
     ![IBM Cloud](https://img.shields.io/badge/IBM_CLOUD-DATA_MANAGEMENT-darkblue.svg?style=flat&logo=IBM_Cloud&logoColor=white)
     ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-    [![Ganache](https://img.shields.io/badge/GANACHE-brown.svg?logo=ganache&style=flat-square)](https://www.trufflesuite.com/ganache)
+    ![Ganache Truffle Suite](https://img.shields.io/badge/GANACHE-lightorange.svg?logo=truffle-suite&style=flat)
     ![Canva](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
     ![Pandas](https://img.shields.io/badge/PANDAS-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
     ![Streamlit](https://img.shields.io/badge/STREAMLIT-ff6961.svg?style=flat&logo=Streamlit&logoColor=white) 
