@@ -29,7 +29,7 @@
     [![Ganache](https://img.shields.io/badge/GANACHE-brown.svg?logo=ganache&style=flat-square)](https://www.trufflesuite.com/ganache)
     ![Canva](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
     ![Pandas](https://img.shields.io/badge/PANDAS-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-    ![Streamlit](https://img.shields.io/badge/Streamlit-ff6961.svg?style=flat&logo=Streamlit&logoColor=white) 
+    ![Streamlit](https://img.shields.io/badge/STREAMLIT-ff6961.svg?style=flat&logo=Streamlit&logoColor=white) 
     ![NumPy](https://img.shields.io/badge/NUMPY-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
     ![Plotly](https://img.shields.io/badge/PLOTLY-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
     ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
