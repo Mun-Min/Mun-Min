@@ -21,7 +21,7 @@
     ![Solidity](https://img.shields.io/badge/SOLIDITY-%23363636.svg?style=flat&logo=solidity&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
     ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-    ![CSS](https://img.shields.io/badge/CSS-lightblue.svg?logo=css3&style=flat)(https://shields.io)
+    ![CSS](https://img.shields.io/badge/CSS-lightblue.svg?logo=css3&style=flat)
     ![Anaconda](https://img.shields.io/badge/ANACONDA-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
     ![AWS](https://img.shields.io/badge/AMAZON_WEB_SERVICES-LAMBDA,LEX,SAGEMAKER,S3-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
     ![Google Cloud](https://img.shields.io/badge/Google_Colab-ffa500.svg?style=flat&logo=Google-Colab&logoColor=white) 
