@@ -25,7 +25,7 @@
     ![Anaconda](https://img.shields.io/badge/ANACONDA-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
     ![AWS](https://img.shields.io/badge/AMAZON_WEB_SERVICES-LAMBDA,LEX,SAGEMAKER,S3-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
     ![Google Cloud](https://img.shields.io/badge/Google_Colab-ffa500.svg?style=flat&logo=Google-Colab&logoColor=white) 
-    ![IBM Cloud](https://img.shields.io/badge/IBM_CLOUD- DATA_MANAGEMENT-darkblue.svg?style=flat&logo=IBM_Cloud&logoColor=white)
+    ![IBM Cloud](https://img.shields.io/badge/IBM_CLOUD-DATA_MANAGEMENT-darkblue.svg?style=flat&logo=IBM_Cloud&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
     ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
     [![Ganache](https://img.shields.io/badge/GANACHE-brown.svg?logo=ganache&style=flat-square)](https://www.trufflesuite.com/ganache)
