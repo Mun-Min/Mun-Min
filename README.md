@@ -14,8 +14,8 @@
 <br>
 
 ## 💻 Tech Stack
-![Markdown](
-    https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
+    ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
     ![Java](https://img.shields.io/badge/JAVA-a52a2a.svg?style=flat&logo=Java&logoColor=a52a2a)
     ![Python](https://img.shields.io/badge/PYTHON-3670A0?style=flat&logo=python&logoColor=ffdd54)
     ![Solidity](https://img.shields.io/badge/SOLIDITY-%23363636.svg?style=flat&logo=solidity&logoColor=white)
@@ -26,7 +26,6 @@
     ![AWS](https://img.shields.io/badge/AMAZON_WEB_SERVICES-LAMBDA,LEX,SAGEMAKER,S3-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
     ![Google Cloud](https://img.shields.io/badge/Google_Colab-ffa500.svg?style=flat&logo=Google-Colab&logoColor=white) 
     ![IBM Cloud](https://img.shields.io/badge/IBM_CLOUD-DATA_MANAGEMENT-darkblue.svg?style=flat&logo=IBM_Cloud&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
     ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
     [![Ganache](https://img.shields.io/badge/GANACHE-brown.svg?logo=ganache&style=flat-square)](https://www.trufflesuite.com/ganache)
     ![Canva](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
@@ -37,6 +36,7 @@
     ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
     ![SciPy](https://img.shields.io/badge/SCIPY-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
     ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
+    ![Prophet](https://img.shields.io/badge/PROPHET-lightgrey.svg?logo=facebook-prophet&style=flat)
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
     ![Keras](https://img.shields.io/badge/KERAS-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
     ![Node.js](https://img.shields.io/badge/NODE.JS-lightgreen.svg?logo=node.js&style=flat)
