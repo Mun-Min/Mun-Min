@@ -16,7 +16,7 @@
 ## 💻 Tech Stack
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
     ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-    ![Java](https://img.shields.io/badge/JAVA-a52a2a.svg?style=for-the-badge&logo=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologies%2Fjavase%2Fjavase-logo.svg&logoColor=a52a2a)
+    ![Java](https://img.shields.io/badge/JAVA-a52a2a.svg?style=for-the-badge&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2F80688e429a7d4ef2fca1e82350fe8e3517d3494d%2Ftopics%2Fcoffee%2Fcoffee.png&logoColor=a52a2a)
     ![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Solidity](https://img.shields.io/badge/SOLIDITY-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
