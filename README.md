@@ -16,7 +16,7 @@
 ## 💻 Tech Stack
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
     ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-    ![Java](https://img.shields.io/badge/Java-lightgrey.svg?style=for-the-badge&labelColor=lightgrey&color=brown)`☕️`
+    ![Java](https://img.shields.io/badge/Java-lightgrey.svg?style=for-the-badge&labelColor=lightgrey&color=brown)`Java` :coffee:
     ![Python](https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     ![Solidity](https://img.shields.io/badge/SOLIDITY-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
