@@ -36,7 +36,7 @@
     ![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
     ![SciPy](https://img.shields.io/badge/SCIPY-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
     ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-    ![Prophet](https://img.shields.io/badge/PROPHET-lightgrey.svg?logo=facebook-prophet&style=flat)
+    ![Prophet](https://img.shields.io/badge/PROPHET-lightgrey.svg?logo=facebook&style=flat)
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
     ![Keras](https://img.shields.io/badge/KERAS-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
     ![Node.js](https://img.shields.io/badge/NODE.JS-lightgreen.svg?logo=node.js&style=flat)
