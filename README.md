@@ -54,6 +54,7 @@
 ![](./Images/badge_3.png) 
 ![](./Images/badge_4.png) &nbsp;
 ![](./Images/badge_5.png) &nbsp;&nbsp;&nbsp;
+![](./Images/badge_6.png)
 ![](./Images/FinTech_Bootcamp_Badge.png)
 
 </p> 
