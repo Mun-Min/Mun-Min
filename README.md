@@ -57,7 +57,7 @@
 ![](https://images.credly.com/size/140x140/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png) &nbsp;
 ![](./Images/badge_3.png) 
 ![](./Images/badge_4.png) &nbsp;
-![](./Images/badge_5.png) &nbsp;&nbsp;&nbsp;
+![](./Images/badge_5.png)
 ![](./Images/badge_6.png)
 ![](./Images/FinTech_Bootcamp_Badge.png)
 
