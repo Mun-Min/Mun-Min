@@ -53,8 +53,8 @@
 <br>
 
 ## 🏆 Credly/Certification Badges:
-![](https://images.credly.com/size/140x140/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png) &nbsp;
-![](https://images.credly.com/size/140x140/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png) &nbsp;
+![](https://images.credly.com/size/145x145/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png) &nbsp;
+![](https://images.credly.com/size/145x145/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png) &nbsp;
 ![](./Images/badge_3.png) &nbsp;
 ![](./Images/badge_4.png) &nbsp;
 ![](./Images/badge_5.png) 
