@@ -50,6 +50,7 @@
 <br>
 
 ## 🏆 Credly/Certification Badges:
+<!-- 
 ![](https://images.credly.com/size/145x145/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png) &nbsp;
 ![](https://images.credly.com/size/145x145/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png) &nbsp;
 ![](./Images/badge_3.png) &nbsp;
@@ -58,6 +59,23 @@
 ![](./Images/badge_6.png) &nbsp;
 ![](./Images/badge_7.png) &nbsp;
 ![](./Images/badge_8.png) &nbsp;&nbsp;&nbsp;
+-->
+[![Cloud Computing Core](https://images.credly.com/size/145x145/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)](https://www.credly.com/users/munqiz-minhas)
+&nbsp;
+[![Web Development Essentials](https://images.credly.com/size/145x145/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)](https://www.credly.com/users/munqiz-minhas)
+&nbsp;
+[![Badge 3](./Images/badge_3.png)](https://www.credly.com/users/munqiz-minhas)
+&nbsp;
+[![Badge 4](./Images/badge_4.png)](https://www.credly.com/users/munqiz-minhas)
+&nbsp;
+[![Badge 5](./Images/badge_5.png)](https://www.credly.com/users/munqiz-minhas)
+&nbsp;
+[![Badge 6](./Images/badge_6.png)](https://www.credly.com/users/munqiz-minhas)
+&nbsp;
+[![Badge 7](./Images/badge_7.png)](https://www.credly.com/users/munqiz-minhas)
+&nbsp;
+[![Badge 8](./Images/badge_8.png)](https://www.credly.com/users/munqiz-minhas)
+&nbsp;&nbsp;&nbsp;
 [![FinTech Bootcamp Badge](./Images/FinTech_Bootcamp_Badge.png)](https://api.badgr.io/public/assertions/QnD8vZ9PRTShsxpXA4k6bA?identity__email=minhasmunqiz%40gmail.com)
 
 </p> 
