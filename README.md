@@ -10,6 +10,7 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munqiz-minhas) 
 [![Mail](https://img.shields.io/badge/Gmail-minhasmunqiz@gmail.com-lightred.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:minhasmunqiz@gmail.com)
+<a href="https://virtual-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23764ABC.svg?style=for-the-badge&amp;logo=windowsterminal&amp;logoColor=white&amp;logoWidth=16" alt="Portfolio"></a>
 
 <br>
 
