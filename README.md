@@ -1,5 +1,5 @@
 # 💫 About Me
-* Hello World! I am an aspiring Data Analyst / Software Developer and I am currently seeking various educational programs to advance my skillset. 
+* Hello World! I am an aspiring Data Analyst / Software Developer and I am currently seeking various opportunities to advance my skillset and gain professional experience. 
 
 * Qualifications encompass collaborating across teams to define needs, evaluate risks and issues, and implementing solutions. 
 
