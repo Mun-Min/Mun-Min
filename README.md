@@ -30,7 +30,7 @@
     ![Google Collab](https://img.shields.io/badge/Google_Colab-ffa500.svg?style=for-the-badge&logo=Google-Colab&logoColor=white) 
     ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
     ![Streamlit](https://img.shields.io/badge/STREAMLIT-ff6961.svg?style=for-the-badge&logo=Streamlit&logoColor=white) 
-    ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/Netlify-%2300CED1.svg?style=for-the-badge&logo=netlify&logoColor=white)
     ![Pandas](https://img.shields.io/badge/PANDAS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
     ![NumPy](https://img.shields.io/badge/NUMPY-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
     ![Plotly](https://img.shields.io/badge/PLOTLY-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
