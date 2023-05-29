@@ -46,13 +46,20 @@
 <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mun-Min&theme=vision-friendly-dark&hide_border=false&include_all_commits=True&count_private=true&card_width=560)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mun-Min&theme=vision-friendly-dark&hide_border=false&card_width=560)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mun-Min&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=dotfiles,dockerfiles&cache_seconds=1800&custom_title=Languages%20I%20Use%20The%20Most&hide_title=false&card_width=560)
-
-
+<p align="center">
+  <a href="https://github.com/mun-min">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mun-min&theme=transparent" />
+  </a>
+  <a href="https://github.com/mun-min">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mun-min&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/mun-min">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mun-min&theme=transparent" />
+  </a>
+  <a href="https://github.com/mun-min">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mun-min&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mun-Min&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
