@@ -48,17 +48,17 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/mun-min">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mun-min&theme=transparent" />
+  <a href="https://github.com/Mun-Min">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mun-Min&theme=transparent" />
   </a>
-  <a href="https://github.com/mun-min">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mun-min&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/Mun-Min">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mun-Min&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/mun-min">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mun-min&theme=transparent" />
+  <a href="https://github.com/Mun-Min">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mun-Min&theme=transparent" />
   </a>
-  <a href="https://github.com/mun-min">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mun-min&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  <a href="https://github.com/Mun-Min">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mun-Min&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 
