@@ -96,6 +96,8 @@
 [![Badge 8](./Images/badge_8.png)](https://www.credly.com/users/munqiz-minhas)
 &nbsp;
 [![Badge 9](./Images/badge_9.png)](https://www.credly.com/users/munqiz-minhas)
+&nbsp;
+[![Badge 10](./Images/badge_10.png)](https://www.credly.com/users/munqiz-minhas)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![FinTech Bootcamp Badge](./Images/FinTech_Bootcamp_Badge.png)](https://api.badgr.io/public/assertions/QnD8vZ9PRTShsxpXA4k6bA?identity__email=minhasmunqiz%40gmail.com)
 
