@@ -47,20 +47,26 @@
 <br>
 
 ## 📊 GitHub Stats:
+
+
 <p align="center">
   <a href="https://github.com/Mun-Min">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mun-Min&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mun-Min&theme=calm" />
   </a>
   <a href="https://github.com/Mun-Min">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mun-Min&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mun-Min&hide_border=true&card_width=338&theme=calm" />
   </a>
   <a href="https://github.com/Mun-Min">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mun-Min&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mun-Min&theme=calm" />
   </a>
   <a href="https://github.com/Mun-Min">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mun-Min&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mun-Min&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=calm" />
   </a>
 </p>
+
+
+
+
 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mun-Min&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
