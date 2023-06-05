@@ -1,4 +1,4 @@
-## 💫 About Me
+### 💫 About Me
 - *Hello World! I am an aspiring Data Analyst / Software Developer and I am currently seeking various opportunities to advance my skillset and gain professional experience.*
 
 - *Qualifications encompass collaborating across teams to define needs, evaluate risks and issues, and implementing solutions.*
@@ -8,14 +8,14 @@
 
 <br>
 
-## 🌐 Socials
+### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munqiz-minhas) 
 [![Mail](https://img.shields.io/badge/Gmail-minhasmunqiz@gmail.com-lightred.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:minhasmunqiz@gmail.com)
 <a href="https://virtual-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23764ABC.svg?style=for-the-badge&amp;logo=windowsterminal&amp;logoColor=white&amp;logoWidth=16" alt="Portfolio"></a>
 
 <br>
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white&color=FF6600)
     ![Visual Studio Code](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
     ![Markdown](https://img.shields.io/badge/MARKDOWN-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
@@ -46,7 +46,7 @@
 
 <br>
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 
 <p align="center">
@@ -74,7 +74,7 @@
 
 <br>
 
-## 🏆 Credly/Certification Badges:
+### 🏆 Credly/Certification Badges:
 <!-- 
 ![](https://images.credly.com/size/145x145/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png) &nbsp;
 ![](https://images.credly.com/size/145x145/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png) &nbsp;
@@ -110,8 +110,10 @@
 </p> 
 <br>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox)
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Quotes" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mun-Min&icon=5&color=3)](https://visitcount.itsvg.in)
