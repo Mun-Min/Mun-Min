@@ -95,7 +95,7 @@
 [![Badge 4](./Images/badge_4.png)](https://www.credly.com/users/munqiz-minhas)
 &nbsp;
 [![Badge 5](./Images/badge_5.png)](https://www.credly.com/users/munqiz-minhas)
-&nbsp;
+
 [![Badge 6](./Images/badge_6.png)](https://www.credly.com/users/munqiz-minhas)
 &nbsp;
 [![Badge 7](./Images/badge_7.png)](https://www.credly.com/users/munqiz-minhas)
