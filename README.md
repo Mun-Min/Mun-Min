@@ -115,6 +115,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Mun-Min&icon=5&color=3)](https://visitcount.itsvg.in)
+![Visitors](https://komarev.com/ghpvc/?username=Mun-Min&style=for-the-badge)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
